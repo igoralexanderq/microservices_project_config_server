@@ -12,5 +12,5 @@ spring:
   cloud:
     config:
       uri: http://config-server.drakium.com:9000
-      username: alexander
-      password: vladivostok
+      #username: alexander
+      #password: vladivostok
